@@ -1,0 +1,2 @@
+# tooHotGameInfo
+TooHotGameInfo
